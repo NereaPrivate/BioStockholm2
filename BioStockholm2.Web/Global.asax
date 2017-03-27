@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="BioStockholm2.Web.EPiServerApplication" %>
